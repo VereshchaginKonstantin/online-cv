@@ -15,7 +15,7 @@ sidebar:
     email: okarien@mail.ru
     phone: +79266216922
     website: #do not add http://
-    linkedin: константин-верещагин-1a363265
+    linkedin: konstantin-vereshchagin-1a363265
     github: VereshchaginKonstantin
     telegram: okarien # add your nickname without '@' sign
     gitlab:
@@ -86,23 +86,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: C# & .Net
         level: 98%
-
+        
+      - name: Python & Django
+        level: 50%
+  
       - name: Angular
-        level: 98%
+        level: 50%
 
       - name: Postgress
-        level: 95%
+        level: 60%
 
       - name: Oracle
-        level: 85%
+        level: 60%
 
       - name: C++
-        level: 60%
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
