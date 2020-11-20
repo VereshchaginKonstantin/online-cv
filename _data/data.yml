@@ -26,60 +26,55 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Professional
-
       - idiom: Russian
         level: Native 
+
+      - idiom: English
+        level: Professional
  
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here.
-      Second paragraph if required.
+        Results-oriented C# programmer with 10+ years experience developing, testing, and maintaining enterprise software applications. 
 education:
-    - degree: MSc in Computer Science
-      university: Oil an Gas university
+    - degree: Specialist in Computer Science
+      university: National University of Oil and Gas "Gubkin University"
       time: 2005 - 2010
-      details: |
-        Describe your study here 
-          - Bullet point
-          - Bullet point
+      details: 
 experiences:
-    - role: Lead Developer
+    - role: Senior Software Engineer
       time: 2014 - Present
       company: LLC Gazprom Inform, Moscow
-      details: |
-        Describe your role here  
-          - Bullet point
-          - Bullet point
+      details: | 
+        Systems for automating the process of dispatching control in the gas industry.
+          - Architecture
+          - Developing
+        Technology C#, .net framework, .net core, Postgres, Rabbitmq. Microservice architecture. Web client on angular. Desktop client on WPF(Prism). Microservices on .net core. Database PostgreSQL, Clickhouse.
     - role: Senior Software Engineer
-      time: 2014 - 2015
+      time: 2009 - 2015
       company: LLC Gazprom Development, Moscow
       details: |
-        Describe your role here .
-          - Bullet point
-          - Bullet point
+        Systems for automating the process of dispatching control in the gas industry.
+          - Architecture
+          - Developing
+          Technology C#/Delphi, Asp.net, Oracle. Client/Server architecture. Web client on asp.net. Desktop client on windows forms. Database Oracle.
 projects:
-    title: Projects
+    title: Pet projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Pet projects for learning other languages.
     assignments:
-      - title: Workclock
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-  
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Workclock(Python)
+        link: https://github.com/VereshchaginKonstantin/workclock
+        tagline: "A bot for Telegram, which calculated working time for groups member. Also can reminding about birthday, set "lightning" too late workers, print summary for weeks."
+      - title: Delete(Python, Angular)
+        link: -
+        tagline: "A CRM-system for medical companies removing tattoo. It's a commercial project, and the repository is private."
  
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# & .Net
+      - name: C# & .Net core
         level: 98%
         
       - name: Python & Django
@@ -97,5 +92,11 @@ skills:
       - name: C++
         level: 30%
 
+      - name: Gitlab, TFS
+        level: 100%
+
+      - name: Algorithms and data structures
+        level: 70%
+  
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
