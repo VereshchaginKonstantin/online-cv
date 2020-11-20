@@ -40,7 +40,7 @@ education:
     - degree: Specialist in Computer Science
       university: National University of Oil and Gas "Gubkin University"
       time: 2005 - 2010
-      details: 
+      details: -
 experiences:
     - role: Senior Software Engineer
       time: 2014 - Present
