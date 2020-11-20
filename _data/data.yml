@@ -46,17 +46,15 @@ experiences:
       company: LLC Gazprom Inform, Moscow
       details: | 
         Systems for automating the process of dispatching control in the gas industry.
-          - Architecture
-          - Developing
-        Technology C#, .net framework, .net core, Postgres, Rabbitmq. Microservice architecture. Web client on angular. Desktop client on WPF(Prism). Microservices on .net core. Database PostgreSQL, Clickhouse.
+          - My role is Architecture/Developing
+          - Technology C#, .net framework, .net core, Postgres, Rabbitmq. Microservice architecture. Web client on angular. Desktop client on WPF(Prism). Microservices on .net core. Database PostgreSQL, Clickhouse.
     - role: Senior Software Engineer
       time: 2009 - 2015
       company: LLC Gazprom Development, Moscow
       details: |
         Systems for automating the process of dispatching control in the gas industry.
-          - Architecture
-          - Developing
-          Technology C#/Delphi, Asp.net, Oracle. Client/Server architecture. Web client on asp.net. Desktop client on windows forms. Database Oracle.
+          - My role is Architecture/Developing
+          - Technology C#/Delphi, Asp.net, Oracle. Client/Server architecture. Web client on asp.net. Desktop client on windows forms. Database Oracle.
 projects:
     title: Pet projects
     intro: >
