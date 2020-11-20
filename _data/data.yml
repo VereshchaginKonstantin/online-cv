@@ -62,6 +62,7 @@ projects:
     intro: >
       Pet projects for learning other languages.
     assignments:
+      - title: Velocity 
       - title: Workclock. Python.
         link: "https://github.com/VereshchaginKonstantin/workclock"
         tagline: "A bot for Telegram, which calculated working time for groups member. Also can reminding about birthday, set "lightning" too late workers, print summary for weeks."
