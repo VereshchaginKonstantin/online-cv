@@ -40,8 +40,8 @@ education:
     - degree: Specialist in Computer Science
       university: National University of Oil and Gas "Gubkin University"
       time: 2005 - 2010
-    - degree: C++ White belt, Yellow belt, Red belt( https://coursera.org/share/ead90c3a700b1b827fecadaa40fc892d )
-      university: Coursera, Yandex
+    - degree: C++ White belt, Yellow belt, Red belt
+      university: Coursera, Yandex https://coursera.org/share/ead90c3a700b1b827fecadaa40fc892d
       time: 2019 - 2019
 experiences:
     - role: Senior Software Engineer
