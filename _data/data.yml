@@ -40,6 +40,9 @@ education:
     - degree: Specialist in Computer Science
       university: National University of Oil and Gas "Gubkin University"
       time: 2005 - 2010
+    - degree: C++ White belt, Yellow belt, Red belt( https://coursera.org/share/ead90c3a700b1b827fecadaa40fc892d )
+      university: Coursera, Yandex
+      time: 2019 - 2019
 experiences:
     - role: Senior Software Engineer
       time: 2014 - Present
@@ -47,7 +50,7 @@ experiences:
       details: | 
         Systems for automating the process of dispatching control in the gas industry.
           - My role is Architecture/Developing
-          - Technology C#, .net framework, .net core, Postgres, Rabbitmq. Microservice architecture. Web client on angular. Desktop client on WPF(Prism). Microservices on .net core. Database PostgreSQL, Clickhouse.
+          - Technology C#, .net framework, .net core, Postgres, Rabbitmq. Microservice architecture. Web client on angular. Desktop client on WPF(Prism). Microservices on .net core. Databases PostgreSQL, Clickhouse.
     - role: Senior Software Engineer
       time: 2009 - 2015
       company: LLC Gazprom Development, Moscow
