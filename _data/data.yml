@@ -65,7 +65,7 @@ projects:
     assignments:
       - title: Workclock(Python)
         link: "https://github.com/VereshchaginKonstantin/workclock"
-        tagline: "A bot for Telegram, which calculated working time for groups member. Also can reminding about birthday, set 'lightning' too late workers, print summary for weeks."
+        tagline: "A bot for Telegram, which calculated working time for groups member. Also can remind about birthday, warning alarm about continuously late employees, print summary each week."
       
       - title: Delete(Python, Angular)
         link: "#hook"
@@ -98,6 +98,9 @@ skills:
 
       - name: Parallel Computing
         level: 70%
+
+      - name: DDD, TDD, EDD, GoF, Microservices
+        level: 90%
 
       - name: Algorithms and data structures
         level: 70%
